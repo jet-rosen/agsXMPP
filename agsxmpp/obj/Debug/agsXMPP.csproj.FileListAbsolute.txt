@@ -1,0 +1,10 @@
+E:\Xmpp_work\agsxmpp-master\agsxmpp\bin\Debug\agsXMPP.dll
+E:\Xmpp_work\agsxmpp-master\agsxmpp\bin\Debug\agsXMPP.pdb
+E:\Xmpp_work\agsxmpp-master\agsxmpp\obj\Debug\agsXMPP.csprojResolveAssemblyReference.cache
+E:\Xmpp_work\agsxmpp-master\agsxmpp\obj\Debug\agsXMPP.dll
+E:\Xmpp_work\agsxmpp-master\agsxmpp\obj\Debug\agsXMPP.pdb
+E:\zzzzz\Form02\bin\Debug\agsXMPP.dll
+E:\zzzzz\Form02\bin\Debug\agsXMPP.pdb
+E:\zzzzz\Form02\agsxmpp\obj\Debug\agsXMPP.csprojResolveAssemblyReference.cache
+E:\zzzzz\Form02\agsxmpp\obj\Debug\agsXMPP.dll
+E:\zzzzz\Form02\agsxmpp\obj\Debug\agsXMPP.pdb
